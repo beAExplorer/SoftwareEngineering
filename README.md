@@ -66,14 +66,6 @@
    ```
 3. 处理后的词汇表将保存到指定的路径中。
 
-## 示例
-
-假设你有以下文件：
-
-- `./data/sql_word_dict.txt`: 包含需要排除的词汇
-- `./ulabel_data/large_corpus/multiple/sql_large_multiple_unlable.txt`: 包含未标记的SQL语料库数据
-
-你可以运行脚本，将处理后的词汇表保存到`./ulabel_data/sql_word_dict.txt`。
 
 ## 依赖项
 
